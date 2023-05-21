@@ -1,0 +1,26 @@
+input{
+    width: 100%;
+    border-radius: 21px;
+    border: 2px solid #000000;
+    height: 58px;
+}
+
+.issue-text{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.choices-text{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.note-text{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.document-text{
+    font-size: 13px;
+    font-weight: 600;
+}
